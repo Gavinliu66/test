@@ -7,4 +7,4 @@ Notepad++ v6.8.3 bug-fixes:
 5.  Fix functionList display problem under high DPI.
 6.  Fix Norwegian localization bad display and wrong encoding.
 
-
+1232323232
