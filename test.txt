@@ -8,3 +8,4 @@ Notepad++ v6.8.3 bug-fixes:
 6.  Fix Norwegian localization bad display and wrong encoding.
 
 1232323232
+123123123123123123
